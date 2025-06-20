@@ -8,6 +8,7 @@ Create a json object of every endpoint function in the OWASP ZAP API.
    1. `cd` to the project dir.
    2. Run `pipenv --three` to create a Python 3 virtual environment.
    3. Run `pipenv install` to install all dependencies in the *Pipfile*.
+4. Local running instance of [ZAP](https://www.zaproxy.org/download/)
 
 # Usage
 1. Run with `pipenv run ./run.sh`
